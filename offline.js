@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1520853200,
+	"version": 1521416275,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -7,8 +7,7 @@
 		"offlineClient.js",
 		"images/bd-sheet0.png",
 		"images/earth-sheet0.png",
-		"images/primwedge-sheet0.png",
-		"images/primboop-sheet0.png",
+		"images/boopwedge-sheet0.png",
 		"images/skincolor-sheet0.png",
 		"images/skincolor-sheet1.png",
 		"images/skingrey-sheet0.png",
@@ -35,6 +34,7 @@
 		"images/gazedots-sheet0.png",
 		"images/particleboop.png",
 		"images/booplimb-sheet0.png",
+		"images/debugboopbeacon-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
