@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1521416275,
+	"version": 1521422867,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -32,9 +32,10 @@
 		"images/boopsquare-sheet0.png",
 		"images/boopsquare-sheet1.png",
 		"images/gazedots-sheet0.png",
-		"images/particleboop.png",
+		"images/particlegaze.png",
 		"images/booplimb-sheet0.png",
 		"images/debugboopbeacon-sheet0.png",
+		"images/particleboop.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
