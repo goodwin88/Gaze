@@ -1,10 +1,10 @@
 ﻿CACHE MANIFEST
-#1521423711
+#1521444356
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
 offlineClient.js
-images/bd-sheet0.png
+images/bdday-sheet0.png
 images/earth-sheet0.png
 images/boopwedge-sheet0.png
 images/skincolor-sheet0.png
@@ -35,6 +35,10 @@ images/particlegaze.png
 images/booplimb-sheet0.png
 images/debugboopbeacon-sheet0.png
 images/particleboop.png
+images/bdnight-sheet0.png
+images/star-sheet0.png
+images/star-sheet1.png
+images/gazemoon-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
